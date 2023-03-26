@@ -1,4 +1,4 @@
-# edgedetection
+# Edge detection
 
 ## Methodology.
 1. Moving Average arcross 5 pictures
